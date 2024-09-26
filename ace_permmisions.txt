@@ -1,0 +1,19 @@
+add_ace group.admin trafficdensity.toggle allow
+add_principal identifier.steam:YOUR_STEAM_ID group.admin
+
+remove_ace group.admin trafficdensity.toggle allow
+remove_principal identifier.steam:YOUR_STEAM_ID group.admin
+
+
+This Script Was Made For Fun And To Add The Real Life Traffic Jams We All Love And Hate This It Locked To Admin + Or Ace Perms group.admin or group.traffic or what u want the group to be.
+
+please make sure u add the perms as this wont work without it.
+
+This Is Open Source Please Change Up To What You Want To Add But Please Credit Me.
+
+You Can Turn It On And Off Via Command /toggletrafficdensity      When u Turn Off It Will Reset All Traffic Back To Normal This Script Is To Max Out The Traffic To 300+.
+
+Thank u for using My Script.
+
+
+TheGreatOneFrom District9)
